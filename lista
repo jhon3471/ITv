@@ -21,14 +21,17 @@ http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92735
 #EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Abertos",BAND NEWS
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92723
 
-#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Abertos",GLOBO - São Paulo
-http://cdnrede.com:80/Erik123/Erik321/174628
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Abertos",GLOBO - Brasilia
+http://pvsrvs.xyz:80/dieilson25/di378271909/2977
 
-#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Abertos",GLOBO - Goiás
-http://cdnrede.com:80/Erik123/Erik321/25426
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Abertos",Globo - Brasília
+http://pvsrvs.xyz:80/dieilson25/di378271909/21
 
-#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Abertos",GLOBO - Curitiba
-http://cdnrede.com:80/Erik123/Erik321/5107
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Abertos",Globo - Curitiba
+http://pvsrvs.xyz:80/dieilson25/di378271909/28799
+
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Abertos",Globo - São Paulo
+http://187.94.148.10:8090/play/a02y/index.m3u8
 
 #EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Abertos",GLOBO NEWS
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92691
