@@ -12,26 +12,21 @@ http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92654
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recnews.png" group-title="Abertos",Record News
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 
-#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Abertos",BAND 1
-http://168.205.87.198:8555/live/1111/123456/19.ts
+#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Abertos",BAND
+http://168.205.87.198:8555/live/antony/1234/19.ts
 
-#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Abertos",BAND 2
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92735
+#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Abertos",BAND
+http://168.205.87.198:8555/live/JOSEE/123456/19.ts
 
 #EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Abertos",BAND NEWS
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92723
 
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Abertos",Globo - Brasília
-http://pvsrvs.xyz:80/dieilson25/di378271909/21
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Abertos",Globo - Minas
+http://168.205.87.198:8555/live/antony/1234/70.ts
 
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Abertos",Globo - Curitiba
-http://pvsrvs.xyz:80/dieilson25/di378271909/28799
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Abertos",Globo - Rio
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/16489
 
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Abertos",GLOBO - Rio de Janeiro
-http://pvsrvs.xyz:80/dieilson25/di378271909/2977
-
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Abertos",Globo - São Paulo
-http://187.94.148.10:8090/play/a02y/index.m3u8
 
 #EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Abertos",GLOBO NEWS
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92691
